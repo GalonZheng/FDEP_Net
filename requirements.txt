@@ -1,0 +1,4 @@
+torch~=1.8.1+cu111
+numpy~=1.26.4
+nibabel~=5.2.1
+MedPy~=0.4.0
